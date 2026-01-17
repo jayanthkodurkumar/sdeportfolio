@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/jayanthkodurkumar/",
   leetcode: "https://leetcode.com/effort_22/",
   resume:
-    "https://drive.google.com/file/d/1pv9jpHzQ3RNZUiQaSQwqnDU6H7kYvVb6/view?usp=sharing",
+    "https://drive.google.com/file/d/1sSP_r2ekAG8YhGvxbcQcqjBDo37fY9VL/view?usp=sharing",
 };
